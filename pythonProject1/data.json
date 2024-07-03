@@ -1,0 +1,10 @@
+{
+    "name": "Черный проказник",
+    "id": 1,
+    "face_image": [
+        "face/black1.png",
+        "face/black2.png",
+        "face/black3.png",
+        "face/black4.png"
+    ]
+}

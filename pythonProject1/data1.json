@@ -1,0 +1,11 @@
+{
+    "name": "Белый хозяин",
+    "id": 2,
+    "face_image": [
+        "face/white1.png",
+        "face/white2.png",
+        "face/white3.png",
+        "face/white4.png",
+        "face/white5.png"
+    ]
+}
